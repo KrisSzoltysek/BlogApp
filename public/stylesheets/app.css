@@ -1,0 +1,19 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+.buttons {
+    margin-top: 0.5em;
+}
+
+form.buttons {
+    display: inline-block;
+}
+
+#header {
+    color: black;
+}
